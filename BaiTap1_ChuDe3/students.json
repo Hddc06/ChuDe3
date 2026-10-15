@@ -1,0 +1,17 @@
+﻿[
+  {
+    "MSSV": "2310001",
+    "HoLot": "Nguyễn Văn",
+    "Ten": "An",
+    "NgaySinh": "2005-05-15T00:00:00",
+    "GioiTinh": true,
+    "Lop": "CTK47",
+    "CMND": "123456789",
+    "SoDT": "0912345678",
+    "DiaChi": "Đà Lạt",
+    "MonHoc": [
+      "Mạng máy tính",
+      "Lập trình mạng"
+    ]
+  }
+]

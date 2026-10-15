@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSinhVien>
+	<SinhVien>
+		<MSSV>2310001</MSSV>
+		<HoLot>Nguyễn Văn</HoLot>
+		<Ten>An</Ten>
+		<NgaySinh>2005-05-15T00:00:00</NgaySinh>
+		<GioiTinh>true</GioiTinh>
+		<Lop>CTK47</Lop>
+		<CMND>123456789</CMND>
+		<SoDT>0912345678</SoDT>
+		<DiaChi>Đà Lạt</DiaChi>
+		<MonHoc>
+			<string>Mạng máy tính</string>
+			<string>Lập trình mạng</string>
+		</MonHoc>
+	</SinhVien>
+</ArrayOfSinhVien>

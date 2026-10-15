@@ -1,0 +1,4 @@
+﻿2310000	Hoàng Đình Đức Công	15/05/2006	1	CTK47	0373391824	0912345678	Đà Lạt	Mạng máy tính;Lập trình mạng
+2310001	Nguyễn Văn	An	15/05/2005	1	CTK47	123456789	0912345678	Đà Lạt	Mạng máy tính;Lập trình mạng
+2310002	Trần Thị	Hoa	20/08/2005	0	CTK47	234567890	0987654321	Gia Lai	Hệ điều hành;Lập trình CSDL
+2410003	Phan Minh	Tỉnh	10/03/2006	1	CTK48	345678901	0901234567	Lâm Đồng	Mạng máy tính;An toàn và bảo mật hệ thống
